@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "710862507582",
+    "project_id": "cortellis",
+    "storage_bucket": "cortellis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710862507582:android:c1b90c621d5aaa33ce4b6f",
+        "android_client_info": {
+          "package_name": "com.clarivate.cortellis.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710862507582-tpfgheacgdga0hr7uf988q8528hgnpk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBM1IBIzCE_R50teVwcJL9mc4zIJUwwrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710862507582-tpfgheacgdga0hr7uf988q8528hgnpk8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710862507582-aje65em6d89n9jrdect22l12ugp88jcd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clarivate.cortellis.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
